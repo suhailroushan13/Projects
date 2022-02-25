@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "axios": "^0.26.0",
+    "bcryptjs": "^2.4.3",
+    "colors-cli": "^1.0.28",
+    "js-crypto-rsa": "^1.0.4",
+    "jsonwebtoken": "^8.5.1",
+    "loading-cli": "^1.1.0",
+    "pdfkit": "^0.13.0",
+    "readline-sync": "^1.4.10",
+    "terminal-image": "^2.0.0",
+    "twilio-cli": "^3.2.0"
+  },
+  "name": "encryptdecrypt",
+  "version": "1.0.0",
+  "description": "Encrypt Decrypt",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhailroushan13/Projects.git"
+  },
+  "keywords": [
+    "Encrypt",
+    "Decrypt"
+  ],
+  "author": "Suhail Roushan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhailroushan13/Projects/issues"
+  },
+  "homepage": "https://github.com/suhailroushan13/Projects#readme"
+}
